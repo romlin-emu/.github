@@ -1,15 +1,15 @@
 <p align="center">
-  <a href="https://romlin-emu.github.io"><img src="https://raw.githubusercontent.com/romlin-emu/romlin/main/docs/banner.svg" alt="Romlin" width="700"></a>
+  <a href="https://romlin-emu.github.io"><img src="https://raw.githubusercontent.com/romlin-emu/.github/main/profile/banner.svg" alt="Romlin" width="820"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/romlin-emu/romlin/releases/tag/nightly"><img src="https://img.shields.io/github/v/release/romlin-emu/romlin?include_prereleases&label=release" alt="Latest release, including prereleases"></a>
-  <img src="https://img.shields.io/badge/platforms-macOS%20%7C%20Windows%20%7C%20Linux-blue" alt="Platforms: macOS, Windows and Linux">
-  <a href="https://romm.app"><img src="https://img.shields.io/badge/RomM-5.0%2B-6f42c1" alt="Requires RomM 5.0 or newer"></a>
-  <a href="https://github.com/romlin-emu/romlin/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0--or--later-green" alt="License: GPL-3.0-or-later"></a>
+  <a href="https://github.com/romlin-emu/romlin/releases/tag/nightly"><img src="https://img.shields.io/github/v/release/romlin-emu/romlin?include_prereleases&label=release&color=56309b&labelColor=28252e" alt="Latest release, including prereleases"></a>
+  <img src="https://img.shields.io/badge/platforms-macOS%20%7C%20Windows%20%7C%20Linux-56309b?labelColor=28252e" alt="Platforms: macOS, Windows and Linux">
+  <a href="https://romm.app"><img src="https://img.shields.io/badge/RomM-5.0%2B-56309b?labelColor=28252e" alt="Requires RomM 5.0 or newer"></a>
+  <a href="https://github.com/romlin-emu/romlin/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0--or--later-56309b?labelColor=28252e" alt="License: GPL-3.0-or-later"></a>
 </p>
 
-<p align="center">Play retro games from your RomM library — a free, open-source native app for macOS, Windows and Linux.</p>
+<p align="center"><strong>The RomM desktop client.</strong><br>Download games, launch the right emulator, sync saves and play offline. Free and open source for macOS, Windows and Linux.</p>
 
 <p align="center">
   <a href="https://romlin-emu.github.io">Website</a> ·
